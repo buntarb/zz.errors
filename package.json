@@ -1,0 +1,19 @@
+{
+	"name": "zz.errors",
+	"version": "20160421.0.0",
+	"description": "Base errors classes for imazzine-developer-kit.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idk/zz.errors/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.errors.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
