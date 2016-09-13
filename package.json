@@ -1,6 +1,6 @@
 {
 	"name": "zz.errors",
-	"version": "20160503.0.0",
+	"version": "20160913.0.0",
 	"description": "Base errors classes for imazzine-developer-kit.",
 	"author": {
 		"name": "Artem Lytvynov",
